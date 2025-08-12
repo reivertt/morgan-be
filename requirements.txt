@@ -1,0 +1,12 @@
+Django
+django-ninja
+psycopg2-binary
+python-dotenv
+django-cors-headers
+django-ninja-simple-jwt
+cloudinary 
+django-cloudinary-storage
+PyMuPDF      
+requests      
+groq
+ollama
