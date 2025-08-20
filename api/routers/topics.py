@@ -80,6 +80,7 @@ def create_topic(
         "name":       topic.name,
         "file_url":   request.build_absolute_uri(topic.file.url),
         "created_at": topic.created_at.isoformat(),
+        "progress":   topic.progress
     }
 
 
